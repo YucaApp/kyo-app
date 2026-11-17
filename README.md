@@ -1,4 +1,8 @@
-# Kyo
+<p align="center">
+  <img src="docs/icon.png" width="128" height="128" alt="Kyo app icon">
+</p>
+
+<h1 align="center">Kyo</h1>
 
 A meeting reminder for the Mac that lives in the notch.
 
